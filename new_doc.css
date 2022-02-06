@@ -1,0 +1,65 @@
+body{
+    background-color:lightcyan ;
+}
+section h2{
+    text-transform: uppercase;
+    text-align-last: center;
+    color: lightsalmon;
+    text-shadow: crimson;
+}
+img {
+    width: 100px;
+    padding: 2px;
+    list-style: none;
+}
+#animal{
+    
+    padding: 1;
+    margin: 1;
+    list-style: none ;
+    background-color: linen;
+}
+.animal li{
+
+    margin-bottom: 12px;
+    padding: 12px;
+    border-radius: 20px;
+
+}
+.animal1 li{
+    width: 50%;
+    margin: 12px;
+    padding: 12px;
+    border-radius: 20px;
+
+}
+#animal1{
+    
+    padding: 1;
+    margin: 1;
+    background-color: linen;
+}
+.snake{
+    width: 50%;
+    margin-top: 10px;
+    padding: 1px;
+}
+button{
+    padding: 5px ;
+    margin: 5px;
+    border-radius: 6px;
+}
+button:hover{
+    background-color: aqua;
+    text-align: center;
+    text-transform: capitalize;
+    color: brown;
+    text-emphasis-color: black;
+    text-emphasis-style: auto;
+}
+ul{
+    list-style: none;
+}
+p{
+    overflow: scroll;
+}
