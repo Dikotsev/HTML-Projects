@@ -1,0 +1,26 @@
+
+#div_register{
+width: 300px;
+height: 400px;
+position: absolute;
+top: 150px;
+left: 400px;
+/*transform: translate(-100px, -300px);*/
+}
+
+#div_register .form .fname {
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+    color: dimgrey;
+    padding-top: 12px;
+    
+}
+
+#fname:hover{
+
+    color:aliceblue;
+    background-color: brown;
+    
+
+}
